@@ -122,15 +122,45 @@ Durante o desenvolvimento foram aplicados conceitos de:
 
 ### Cadastro de Uniforme
 
-![Cadastro de Uniforme](images/cadastro-uniforme.png)
+![Cadastro](images/cadastro.png)
 
 ### Consulta por ID
 
-![Consulta por ID](images/consulta-id.png)
+![Consultar por ID](images/consultarporid.png)
 
 ### Consulta de Todos os Uniformes
 
-![Consulta de Todos](images/consulta-todos.png)
+![Consultar Todos](images/consultartodos.png)
+
+### Atualização de Uniforme
+
+![Atualizar](images/atualizar.png)
+
+### Exclusão de Uniforme
+
+![Deletar](images/deletar.png)
+
+---
+
+## 📦 Solicitações de Uniforme
+
+### Cadastro de Solicitação
+
+![Cadastro Solicitação](images/cadastrosolicitacao.png)
+
+### Consulta de Solicitação
+
+![Consulta Solicitação](images/consultarsolicitacao.png)
+
+### Consulta de Todas as Solicitações
+
+![Consulta Todas Solicitações](images/consultartodassolicitacoes.png)
+
+### Exclusão de Solicitação
+
+![Excluir Solicitação](images/excluirsolicitacao.png)
+
+
 
 **João Paulo Emigdio de Moraes**
 Projeto desenvolvido para fins acadêmicos na disciplina de Implementação Orientada a Objetos.
